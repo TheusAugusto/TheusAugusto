@@ -1,4 +1,4 @@
-## Bem-vindo (a) ao perfil do Matheus Augusto 🤝 ##
+## Bem-vindo (a) ao meu perfil. 🤝 ##
 
 <div>
     <a href="Site">https://github.com/TheusAugusto</a>
@@ -20,8 +20,7 @@
   <div>
      <a href="https://wa.me/+5511954844978">Whatsapp: https://wa.me/+5511954844978</a>
      <div>
-        
-     </div>
+         </div>
      <h4>Gmail: m.augusto.l.c@gmail.com</h4>
 
   </div>
