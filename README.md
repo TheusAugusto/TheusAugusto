@@ -1,9 +1,10 @@
 ## Bem-vindo (a) ao meu perfil. 🤝 ##
 
 <div>
-    <a href="Site">https://github.com/TheusAugusto</a>
+   
     <img height="180emm" src="https://github-readme-stats.vercel.app/api?username=TheusAugusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true>"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheusAugusto&layout=compact&langs_count=6&theme=tokyonight"/>
+     <a href="Site">https://github.com/TheusAugusto</a>
 </div>
 
 <div style="display: inline-block"><br>
