@@ -18,7 +18,7 @@
   ### Pra mais informações entre em contato comigo link abaixo!
 
   <div>
-     <a href="Whatsapp">Whatsapp: https://wa.me/+5511954844978</a>
+     <a href="https://wa.me/+5511954844978">Whatsapp: https://wa.me/+5511954844978</a>
      <div>  
      </div>
      <h4>Gmail: m.augusto.l.c@gmail.com</h4>
