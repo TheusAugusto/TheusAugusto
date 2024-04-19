@@ -18,7 +18,7 @@
   ### Pra mais informações entre em contato comigo link abaixo!
 
   <div>
-     <a href="https://wa.me/+5511954844978">Whatsapp: https://wa.me/+5511954844978</a>
+     <a href="https://theusaugusto.github.io/portifolio-simplificado/">Acesse meu portfólio para mais informações.</a>
      <div>  
      </div>
      <h4>Gmail: m.augusto.l.c@gmail.com</h4>
