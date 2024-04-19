@@ -18,7 +18,7 @@
   ### Pra mais informações entre em contato comigo link abaixo!
 
   <div>
-     <a href="https://theusaugusto.github.io/portifolio-simplificado/" target='_blank'>"Clique aqui" para acessar meu portfólio e ter mais informações.</a>
+     <a href="https://theusaugusto.github.io/portifolio-simplificado/" target="_blank">"Clique aqui" para acessar meu portfólio e ter mais informações.</a>
      <div>  
      </div>
      <h4>Gmail: m.augusto.l.c@gmail.com</h4>
